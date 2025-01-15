@@ -1,0 +1,19 @@
+{
+  "name": "VueDebutAdminDocs",
+  "version": "0.0.1",
+  "description": "General Admin Dashboard Templete",
+  "main": "index.js",
+  "authors": {
+    "name": "Dan Orjuela",
+    "email": "dancid84@hotmail.com"
+  },
+  "repository": "https://github.com/danorjuela/VueDebutAdminDocs/VueDebutAdminDocs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
